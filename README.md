@@ -16,3 +16,4 @@ Every pull request triggers a build automatically via GitHub Actions. Check the 
 ## Bugs & Support
 
 Found a bug or have a question? [Open an issue](../../issues/new) and we'll get back to you.
+    

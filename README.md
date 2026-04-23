@@ -9,6 +9,7 @@ npm install
 npm run build
 ```
 
+
 ## CI
 
 Every pull request triggers a build automatically via GitHub Actions. Check the Actions tab for build status.
